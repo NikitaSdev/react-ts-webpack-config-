@@ -14,7 +14,8 @@ const root = ReactDOM.createRoot(
 root.render(
     <React.StrictMode>
         <BrowserRouter>
-            <div></div>
+            <div>
+            </div>
         </BrowserRouter>
     </React.StrictMode>
 );
